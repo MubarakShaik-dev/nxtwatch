@@ -11,7 +11,6 @@ A modern **React.js** Single Page Application inspired by YouTube, featuring sec
 ![Styled Components](https://img.shields.io/badge/Styled--Components-%23db7093.svg?logo=styled-components&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-v6-critical?logo=react-router)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -24,7 +23,7 @@ A modern **React.js** Single Page Application inspired by YouTube, featuring sec
 6. [API Reference](#-api-reference)
 7. [Challenges & Solutions](#-challenges--solutions)
 8. [Contributing](#-contributing)
-9. [License](#-license)
+
 
 ---
 
